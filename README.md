@@ -8,3 +8,4 @@ Repositório com Desafios propostos pelo cursoemvideo
 - [X] Desafio 6 - Crie uma lista de coisas que podem ser inseridas em uma página de forma que quando passamos o mouse por cima delas, é possível ver qual é sua função.
 - [X] Desafio 7 - Crie uma página com uma imagem responsiva.
 - [X] Desafio 8 - Incorpore links na página de maneira que seja possível navegar para outras páginas.
+- [X] Desafio 9 - Crie uma página que possua seus vídeos favoritoes no youtube, de maneira que quando clicado a tumbnail, o usuário seja redirecionado para uma página com vídeo.
