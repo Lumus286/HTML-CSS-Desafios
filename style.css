@@ -15,7 +15,6 @@ html, body {
 body {
     background: url(CSS/fundo-madeira.jpg) no-repeat top center;
     background-size: cover;
-    background-attachment: fixed;
 }
 
 main {
@@ -46,7 +45,7 @@ section#redes {
     text-align: right;
 }
 
-section#redes > img {
+section#redes img {
     width: 50px;
     margin: 10px;
     border-radius: 50%;
@@ -55,7 +54,7 @@ section#redes > img {
 }
 
 section#redes img:hover {
-    /* border: 2px solid rgba(255, 255, 255, 0.336); */
+    border: 2px solid rgba(255, 255, 255, 0.336);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.308);
     transition: transform 0.5s;
